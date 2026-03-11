@@ -233,16 +233,6 @@ Uso do Spring Boot
 
 Desenvolvimento de interfaces com React
 
-## 📸 Demonstração do Sistema
-
-### Tela do Caixa
-![Tela do Caixa](./images/caixa.png)
-
-### Tela de Pagamento
-![Pagamento](./images/pagamento.png)
-
-### Nota Fiscal
-![Nota Fiscal](./images/nota.png)
 
 👨‍💻 Autor
 
