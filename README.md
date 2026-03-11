@@ -175,7 +175,7 @@ Também é possível imprimir a nota diretamente pelo navegador.
 
 💻 Como Executar o Projeto
 1️⃣ Clonar o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/lucaspires31/system-supermarket)
 Backend (Spring Boot)
 Entrar na pasta do backend
 cd backend
